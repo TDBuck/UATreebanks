@@ -18,7 +18,7 @@
     <address>tim.d.buckingham@gmail.com</address>
     <uri>http:&#x2F;&#x2F;data.perseus.org&#x2F;sosol&#x2F;users&#x2F;Tim%20Buckingham</uri>
   </annotator>
-  <sentence id='6' document_id='https://github.com/TDBuck/UATreebanks/blob/master/UALatinTree1.xml' subdoc='1-3' span=''>
+  <sentence id='6' document_id='https://raw.githubusercontent.com/TDBuck/UATreebanks/master/UALatinTree1.xml' subdoc='1-3' span=''>
     <word id='1' form='etenim' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='si' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='attendere' lemma='' postag='' relation='nil' head=''/>
@@ -72,7 +72,7 @@
     <word id='51' form='niteretur' lemma='' postag='' relation='nil' head=''/>
     <word id='52' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='7' document_id='https://github.com/TDBuck/UATreebanks/blob/master/UALatinTree1.xml' subdoc='1-3' span=''>
+  <sentence id='7' document_id='https://raw.githubusercontent.com/TDBuck/UATreebanks/master/UALatinTree1.xml' subdoc='1-3' span=''>
     <word id='1' form='sed' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='ego' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='Atratino' lemma='' postag='' relation='nil' head=''/>
@@ -98,7 +98,7 @@
     <word id='23' form='aetatis' lemma='' postag='' relation='nil' head=''/>
     <word id='24' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='8' document_id='https://github.com/TDBuck/UATreebanks/blob/master/UALatinTree1.xml' subdoc='1-3' span=''>
+  <sentence id='8' document_id='https://raw.githubusercontent.com/TDBuck/UATreebanks/master/UALatinTree1.xml' subdoc='1-3' span=''>
     <word id='1' form='si' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='voluit' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='accusare' lemma='' postag='' relation='nil' head=''/>
@@ -119,7 +119,7 @@
     <word id='18' form='pueritiae' lemma='' postag='' relation='nil' head=''/>
     <word id='19' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='9' document_id='https://github.com/TDBuck/UATreebanks/blob/master/UALatinTree1.xml' subdoc='1-3' span=''>
+  <sentence id='9' document_id='https://raw.githubusercontent.com/TDBuck/UATreebanks/master/UALatinTree1.xml' subdoc='1-3' span=''>
     <word id='1' form='ceteris' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='non' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='modo' lemma='' postag='' relation='nil' head=''/>
@@ -132,7 +132,7 @@
     <word id='10' form='resistendum' lemma='' postag='' relation='nil' head=''/>
     <word id='11' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='10' document_id='https://github.com/TDBuck/UATreebanks/blob/master/UALatinTree1.xml' subdoc='1-3' span=''>
+  <sentence id='10' document_id='https://raw.githubusercontent.com/TDBuck/UATreebanks/master/UALatinTree1.xml' subdoc='1-3' span=''>
     <word id='1' form='ac' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='mihi' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='quidem' lemma='' postag='' relation='nil' head=''/>
@@ -168,7 +168,7 @@
     <word id='33' form='respondeam' lemma='' postag='' relation='nil' head=''/>
     <word id='34' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='11' document_id='https://github.com/TDBuck/UATreebanks/blob/master/UALatinTree1.xml' subdoc='1-3' span=''>
+  <sentence id='11' document_id='https://raw.githubusercontent.com/TDBuck/UATreebanks/master/UALatinTree1.xml' subdoc='1-3' span=''>
     <word id='1' form='obiectus' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='est' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='pater' lemma='' postag='' relation='nil' head=''/>
@@ -188,7 +188,7 @@
     <word id='17' form='diceretur' lemma='' postag='' relation='nil' head=''/>
     <word id='18' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='12' document_id='https://github.com/TDBuck/UATreebanks/blob/master/UALatinTree1.xml' subdoc='1-3' span=''>
+  <sentence id='12' document_id='https://raw.githubusercontent.com/TDBuck/UATreebanks/master/UALatinTree1.xml' subdoc='1-3' span=''>
     <word id='1' form='de' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='dignitate' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='M.' lemma='' postag='' relation='nil' head=''/>
@@ -207,7 +207,7 @@
     <word id='16' form='respondet' lemma='' postag='' relation='nil' head=''/>
     <word id='17' form=';' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
   </sentence>
-  <sentence id='13' document_id='https://github.com/TDBuck/UATreebanks/blob/master/UALatinTree1.xml' subdoc='1-3' span=''>
+  <sentence id='13' document_id='https://raw.githubusercontent.com/TDBuck/UATreebanks/master/UALatinTree1.xml' subdoc='1-3' span=''>
     <word id='1' form='quibus' lemma='' postag='' relation='nil' head=''/>
     <word id='2' form='autem' lemma='' postag='' relation='nil' head=''/>
     <word id='3' form='propter' lemma='' postag='' relation='nil' head=''/>
